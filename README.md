@@ -1,26 +1,28 @@
-# Mina zkApp: Rlp Snarkyjs
+# Recursive Length Prefix - o1js
 
-This template uses TypeScript.
+A ready-to-use library for RLP decoding and verification of data in Mina Smart Contracts & ZK Programs.
 
-## How to build
+## Setup & Installation
 
-```sh
-npm run build
+1. **Clone the repository:**
+```bash
+git clone https://github.com/aerius-labs/rlp-snarkyjs.git
 ```
-
-## How to run tests
-
-```sh
+2. **Navigate to the project directory:**
+```bash
+cd rlp-snarkyjs
+```
+3. **Install the dependencies:**
+```bash
+npm install
+```
+## Running Tests
+```bash
 npm run test
-npm run testw # watch mode
 ```
 
-## How to run coverage
-
-```sh
-npm run coverage
-```
+## Contributing
+We welcome contributions from the community!
 
 ## License
-
-[Apache-2.0](LICENSE)
+This project is UNLICENSED.
